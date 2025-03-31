@@ -1,5 +1,5 @@
 # Basic transaction app with jwt authentincation
-PayStream |Reactjs, MongoDB, Tailwind,ExpressJS April 2024
+PayStream |Reactjs, MongoDB, Tailwind,ExpressJS 
 
 * Developed a full-stack application using MongoDB, Express.js, React.js, and Tailwind CSS, incorporating
 JWT tokens for secure user authentication.
